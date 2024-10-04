@@ -218,6 +218,9 @@
         <mxCell id="esIEEUArtfWU6ATxcibH-36" value="" style="swimlane;startSize=0;" parent="1" vertex="1">
           <mxGeometry x="798" y="897" width="104" height="36" as="geometry" />
         </mxCell>
+        <mxCell id="qNjfz6AxRQTmlU81W7sK-2" value="&lt;font face=&quot;Comic Sans MS&quot;&gt;&lt;b&gt;Nikita Potylitsin&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="500" width="130" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
