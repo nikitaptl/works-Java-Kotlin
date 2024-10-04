@@ -1,9 +1,63 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 YaBrowser/24.7.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Страница — 1" id="TN2tBQWik38ZQnS9yZNB">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--3" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;elbow=vertical;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="uTzEJ_lyMsBl5lTnmfq--1" target="uTzEJ_lyMsBl5lTnmfq--2">
+          <mxGeometry x="0.0224" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="370" />
+              <mxPoint x="503" y="370" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uTzEJ_lyMsBl5lTnmfq--1" target="uTzEJ_lyMsBl5lTnmfq--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uTzEJ_lyMsBl5lTnmfq--1" target="uTzEJ_lyMsBl5lTnmfq--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uTzEJ_lyMsBl5lTnmfq--1" target="uTzEJ_lyMsBl5lTnmfq--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Team&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="250" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--4" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;endArrow=none;endFill=0;" edge="1" parent="1" source="uTzEJ_lyMsBl5lTnmfq--2" target="uTzEJ_lyMsBl5lTnmfq--1">
+          <mxGeometry x="-0.0224" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="503" y="190" />
+              <mxPoint x="310" y="190" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uTzEJ_lyMsBl5lTnmfq--2" target="uTzEJ_lyMsBl5lTnmfq--9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="uTzEJ_lyMsBl5lTnmfq--2" target="uTzEJ_lyMsBl5lTnmfq--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--2" value="Plays against" style="rhombus;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="106" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--7" value="&lt;u&gt;GameId&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="580" y="230" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--9" value="Arbitrator Id" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="570" y="310" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--10" value="&lt;u&gt;TeamId&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--11" value="TeamName" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="80" y="265" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uTzEJ_lyMsBl5lTnmfq--12" value="Composition" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="145" y="330" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
